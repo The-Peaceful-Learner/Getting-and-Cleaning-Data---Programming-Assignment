@@ -10,7 +10,10 @@ The repository contains the following files:
   iv. Appropriately labels the data set with descriptive variable names
   v. From the data set in step iv, creates a second, independent tidy data set with the average of each variable for each activity and each subject
   
-2. The final tidy dataset file - FinalSummary_Activity_Subject-wise_AvgValues.txt:
+2. Cookbook - Original Dataset
+   Describes in detail the methodology used to arrive at the original dataset and all the files available in the dataset
+
+
+3. The final tidy dataset file - FinalSummary_Activity_Subject-wise_AvgValues.txt:
    It contains the tidy dataset with the average of each variable for each activity and each subject.
    
-3. 
